@@ -1,0 +1,59 @@
+{
+    "runId": "158e9298-33a1-4c9a-939e-d89cbf4f2279",
+    "runUuid": "4113390e-c18a-4565-917d-55ac1decc4d4",
+    "parentRunUuid": null,
+    "rootRunUuid": "4113390e-c18a-4565-917d-55ac1decc4d4",
+    "target": null,
+    "status": "Completed",
+    "parentRunId": null,
+    "createdTimeUtc": "2021-09-03T10:16:10.9128516+00:00",
+    "startTimeUtc": "2021-09-03T10:16:13.381Z",
+    "endTimeUtc": "2021-09-03T10:33:43.394Z",
+    "error": null,
+    "warnings": null,
+    "tags": {
+        "azureml.Designer": "true",
+        "azureml.pipelineComponent": "pipelinerun"
+    },
+    "properties": {
+        "azureml.runsource": "azureml.PipelineRun",
+        "runSource": "Designer",
+        "runType": "HTTP",
+        "azureml.parameters": "{}"
+    },
+    "parameters": {},
+    "services": {},
+    "inputDatasets": [],
+    "outputDatasets": [],
+    "runDefinition": null,
+    "logFiles": {
+        "logs/azureml/executionlogs.txt": "https://azureml9046192134.blob.core.windows.net/azureml/ExperimentRun/dcid.158e9298-33a1-4c9a-939e-d89cbf4f2279/logs/azureml/executionlogs.txt?sv=2019-07-07&sr=b&sig=ZXUTR9SAKKZaa3qSFTBpQJaLIR8HR0GsI9GiIq2kraI%3D&skoid=8ae13229-7b90-462f-8134-f311aaf9b503&sktid=def44f5f-0783-4b05-8f2f-dd615c5dfec4&skt=2021-09-03T10%3A16%3A14Z&ske=2021-09-04T06%3A38%3A43Z&sks=b&skv=2019-07-07&st=2021-09-03T10%3A06%3A51Z&se=2021-09-03T18%3A16%3A51Z&sp=r",
+        "logs/azureml/stderrlogs.txt": "https://azureml9046192134.blob.core.windows.net/azureml/ExperimentRun/dcid.158e9298-33a1-4c9a-939e-d89cbf4f2279/logs/azureml/stderrlogs.txt?sv=2019-07-07&sr=b&sig=3sx45nKVp%2Bc1oO90p0mlIZ8rBddajTInsBiuBZElrvE%3D&skoid=8ae13229-7b90-462f-8134-f311aaf9b503&sktid=def44f5f-0783-4b05-8f2f-dd615c5dfec4&skt=2021-09-03T10%3A16%3A14Z&ske=2021-09-04T06%3A38%3A43Z&sks=b&skv=2019-07-07&st=2021-09-03T10%3A06%3A51Z&se=2021-09-03T18%3A16%3A51Z&sp=r",
+        "logs/azureml/stdoutlogs.txt": "https://azureml9046192134.blob.core.windows.net/azureml/ExperimentRun/dcid.158e9298-33a1-4c9a-939e-d89cbf4f2279/logs/azureml/stdoutlogs.txt?sv=2019-07-07&sr=b&sig=xWL5Jcw2gCkMicLGRklP%2BI94cWA4gyDZOGQeeAGdSHI%3D&skoid=8ae13229-7b90-462f-8134-f311aaf9b503&sktid=def44f5f-0783-4b05-8f2f-dd615c5dfec4&skt=2021-09-03T10%3A16%3A14Z&ske=2021-09-04T06%3A38%3A43Z&sks=b&skv=2019-07-07&st=2021-09-03T10%3A06%3A51Z&se=2021-09-03T18%3A16%3A51Z&sp=r"
+    },
+    "jobCost": null,
+    "revision": 11,
+    "runTypeV2": {
+        "orchestrator": "Pipeline",
+        "traits": [
+            "azureml.PipelineRun",
+            "Designer",
+            "HTTP"
+        ],
+        "attribution": null
+    },
+    "settings": {},
+    "computeRequest": null,
+    "createdBy": {
+        "userObjectId": "7cdb3cff-19a0-46fa-9210-6b98188eabf3",
+        "userPuId": "100320012340F95E",
+        "userIdp": null,
+        "userAltSecId": null,
+        "userIss": "https://sts.windows.net/def44f5f-0783-4b05-8f2f-dd615c5dfec4/",
+        "userTenantId": "def44f5f-0783-4b05-8f2f-dd615c5dfec4",
+        "userName": "Hunssah Inayat",
+        "upn": null
+    },
+    "computeDuration": "00:17:30.0133201",
+    "effectiveStartTimeUtc": null
+}
